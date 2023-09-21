@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-from babel.numbers import format_currency
 
 def dataframe_temp(df: pd.DataFrame):
     res = df.groupby("station").resample(rule="Y", on="datetime").agg({

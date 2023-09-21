@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Dasar Analisis Data Menggunakan Python
 
 ## Setup environment
 ```
@@ -11,3 +11,12 @@ pip install requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+## Deployed URL
+```
+https://anhilmy-python-analysis.streamlit.app/
+```
+
+## Ownership
+This code is owned by my.
+Please do not duplicate or copy this repository.
