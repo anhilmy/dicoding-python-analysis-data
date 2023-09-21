@@ -13,9 +13,8 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## Deployed URL
-```
-https://anhilmy-python-analysis.streamlit.app/
-```
+[Website Streamlit](https://anhilmy-python-analysis.streamlit.app)
+![Screenshot website](/assets/screenshot.png)
 
 ## Ownership
 This code is owned by my.
